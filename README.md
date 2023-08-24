@@ -3,7 +3,7 @@
 
 Hi, I'm Michael! I have a technical background and hold a Master of Science (M.S.) degree in Mathematics from Western Washington University, with a Bachelor of Science (B.S.) in Physics with a minor in Astronomy. As a recent graduate, I'm excited to start my career in data analytics. 
 
-You can view my CV [here](https://github.com/superspysnake1/Portfolio/blob/main/Dymek%20CV.pdf)
+View my CV [here](https://github.com/superspysnake1/Portfolio/blob/main/Dymek%20CV.pdf).
 
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
 
@@ -26,17 +26,59 @@ This repository serves to showcase my skills and as a platform to share my proje
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 ### Omicron Wave Modelling 
 
+**Code:** 
+**Description:**
+**Skills:**
+**Technology:**
+**Results:**
+
 ### Three Body Problem
+
+**Code:** 
+**Description:**
+**Skills:**
+**Technology:**
+**Results:**
 
 ### Net Ecosystem Exchange
 
+**Code:** 
+**Description:**
+**Skills:**
+**Technology:**
+**Results:**
+
 ### Science Communications
+
+**Code:** 
+**Description:**
+**Skills:**
+**Technology:**
+**Results:**
 
 ### Pendulum Lab Regression
 
+**Code:** 
+**Description:**
+**Skills:**
+**Technology:**
+**Results:**
+
 ### Life Expectancy
 
+**Code:** 
+**Description:**
+**Skills:**
+**Technology:**
+**Results:**
+
 ### Cosmology Project
+
+**Code:** 
+**Description:**
+**Skills:**
+**Technology:**
+**Results:**
 
 ## Study Projects
 
