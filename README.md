@@ -8,77 +8,119 @@ View my CV [here](https://github.com/superspysnake1/Portfolio/blob/main/Dymek%20
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
 
 ## Table of Contents
- - [About](https://github.com/superspysnake1/Portfolio/blob/main/README.md#about)
- - [Portfolio Projects](https://github.com/superspysnake1/Portfolio/blob/main/README.md#portfolio-projects)
-   - Omicron Wave Modelling (MATH 511 Spring '22)
-   - Three Body Problem (PHYS 486 Spring '21)
-   - Net Ecosystem Exchange (MATH 510 Fall '20)
-   - Science Communications (PHYS 297B Summer '20)
-   - Pendulum Lab Regression (PHYS 326 Winter '19)
-   - Life Expectancy (MATH 342 Fall '19)
-   - Cosmology Project (ASTR 320 Spring '19)
- - [Study Projects](https://github.com/superspysnake1/Portfolio/blob/main/README.md#study-projects)
+ - [About](https://github.com/superspysnake1/Portfolio#about)
+ - [Portfolio Projects](https://github.com/superspysnake1/Portfolio#portfolio-projects)
+   - [Omicron Wave Modeling](https://github.com/superspysnake1/Portfolio#omicron-wave-modeling)
+   - [Three Body Problem](https://github.com/superspysnake1/Portfolio#three-body-problem)
+   - [Net Ecosystem Exchange](https://github.com/superspysnake1/Portfolio#net-ecosystem-exchange)
+   - [Science Communications](https://github.com/superspysnake1/Portfolio#science-communications)
+   - [Pendulum Lab Regression](https://github.com/superspysnake1/Portfolio#pendulum-lab-regression) 
+   - [Life Expectancy](https://github.com/superspysnake1/Portfolio#life-expectancy)
+   - [Cosmology Project](https://github.com/superspysnake1/Portfolio#cosmology-project)
+ - [Study Projects](https://github.com/superspysnake1/Portfolio#study-projects)
    - CS 50 course MIT
    - SQL Course
    - Python Course
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
-### Omicron Wave Modelling 
+### Omicron Wave Modeling 
 
 **Code:** 
+
 **Description:**
+
 **Skills:**
+
 **Technology:**
+
 **Results:**
+
+(MATH 511 Spring '22)
 
 ### Three Body Problem
 
 **Code:** 
+
 **Description:**
+
 **Skills:**
+
 **Technology:**
+
 **Results:**
+
+(PHYS 486 Spring '21)
 
 ### Net Ecosystem Exchange
 
 **Code:** 
+
 **Description:**
+
 **Skills:**
+
 **Technology:**
+
 **Results:**
+
+(MATH 510 Fall '20)
 
 ### Science Communications
 
 **Code:** 
+
 **Description:**
+
 **Skills:**
+
 **Technology:**
+
 **Results:**
+
+(PHYS 297B Summer '20)
 
 ### Pendulum Lab Regression
 
 **Code:** 
+
 **Description:**
+
 **Skills:**
+
 **Technology:**
+
 **Results:**
+
+(PHYS 326 Winter '19)
 
 ### Life Expectancy
 
 **Code:** 
+
 **Description:**
+
 **Skills:**
+
 **Technology:**
+
 **Results:**
+
+(MATH 342 Fall '19)
 
 ### Cosmology Project
 
 **Code:** 
+
 **Description:**
+
 **Skills:**
+
 **Technology:**
+
 **Results:**
+
+(ASTR 320 Spring '19)
 
 ## Study Projects
 
