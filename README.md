@@ -3,7 +3,7 @@
 
 Hi, I'm Michael! I have a technical background and hold a Master of Science (M.S.) degree in Mathematics from Western Washington University, with a Bachelor of Science (B.S.) in Physics with a minor in Astronomy. As a recent graduate, I'm excited to start my career in data analytics. 
 
-You can view my CV [here]()
+You can view my CV [here](https://github.com/superspysnake1/Portfolio/blob/main/Dymek%20CV.pdf)
 
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
 
