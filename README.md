@@ -9,7 +9,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 ## Table of Contents
  - [About](https://github.com/superspysnake1/Portfolio/blob/main/README.md#about)
- - [Portfolio Projects](https://github.com/superspysnake1/Portfolio/blob/main/README.md#about)
+ - [Portfolio Projects](https://github.com/superspysnake1/Portfolio/blob/main/README.md#portfolio-projects)
    - Omicron Wave Modelling (MATH 511 Spring '22)
    - Three Body Problem (PHYS 486 Spring '21)
    - Net Ecosystem Exchange (MATH 510 Fall '20)
@@ -17,7 +17,7 @@ This repository serves to showcase my skills and as a platform to share my proje
    - Pendulum Lab Regression (PHYS 326 Winter '19)
    - Life Expectancy (MATH 342 Fall '19)
    - Cosmology Project (ASTR 320 Spring '19)
- - [Study Projects](https://github.com/superspysnake1/Portfolio/blob/main/README.md#about)
+ - [Study Projects](https://github.com/superspysnake1/Portfolio/blob/main/README.md#study-projects)
    - CS 50 course MIT
    - SQL Course
    - Python Course
