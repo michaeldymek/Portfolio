@@ -18,9 +18,8 @@ This repository serves to showcase my skills and as a platform to share my proje
    - [Life Expectancy](https://github.com/superspysnake1/Portfolio#life-expectancy)
    - [Cosmology Project](https://github.com/superspysnake1/Portfolio#cosmology-project)
  - [Study Projects](https://github.com/superspysnake1/Portfolio#study-projects)
-   - CS 50 course MIT
    - SQL Course
-   - Python Course
+ - [Contacts](https://github.com/superspysnake1/Portfolio#contacts)
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
@@ -124,8 +123,9 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Study Projects
 
-### CS 50 Course Harvard
-
 ### SQL Course
 
-### Python Course
+## Contacts
+
+ - [LinkedIn](https://www.linkedin.com/in/michael-dymek-2b1940152/)
+ - [Email](mailto:michaeldymek5@gmail.com)
