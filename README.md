@@ -26,7 +26,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Portfolio Projects
 In this section I will list data analytics projects, briefly describing each one. 
 ### [Math 511 Omicron Wave Modeling Project](https://github.com/superspysnake1/Omicron-Wave/main) 
-As a part of my mathematical modeling series (WWU Math 510-515), 
+As a part of my mathematical modeling series (WWU Math 510-515), I performed multiple regressions on the Omicron wave of COVID hospitalization data using MATLAB. Using the different regressions, we were able to determine which disease model fit best. Models were derived from first principles using compartmental epidemiological analysis. Writeup generated using LaTeX.
 
 Project Writeup: [Omicrom Wave Modeling Project Writeup.pdf](https://github.com/superspysnake1/Omicron-Wave/blob/4ea42a449dfac51de5117b57382a1ab2f8c6980b/Omicrom%20Wave%20Modeling%20Project%20Writeup.pdf)
 
@@ -37,7 +37,7 @@ Cleaned Dataset: [Omicron Wave Dataset - Cleaned.csv](https://github.com/supersp
 MATLAB Code: [Omicron Wave SIR Model Code.m](https://github.com/superspysnake1/Omicron-Wave/blob/4ea42a449dfac51de5117b57382a1ab2f8c6980b/Omicron%20Wave%20SIR%20Model%20Code.m), [Omicron Wave SEIR Model Code.m](https://github.com/superspysnake1/Omicron-Wave/blob/4ea42a449dfac51de5117b57382a1ab2f8c6980b/Omicron%20Wave%20SEIR%20Model%20Code.m), [Omicron Wave SVIR Model Code.m](https://github.com/superspysnake1/Omicron-Wave/blob/4ea42a449dfac51de5117b57382a1ab2f8c6980b/Omicron%20Wave%20SVIR%20Model%20Code.m)
 
 ### [Phys 486 Three Body Problem Project](https://github.com/superspysnake1/Three-Body-Problem/tree/main)
-As the capstone project of my physics degree, 
+As the capstone project of my physics degree, I modeled the interaction of three astronomical bodies using the Euler-Cromer method of solving differential systems. As part of the project, I gave a presentation on my results to the class. The algorithm was programmed with Python in Jupyter Notebook. The writeup and presentation was generated using LaTeX. 
 
 Project Writeup: [Three Body Problem Writeup.pdf](https://github.com/superspysnake1/Three-Body-Problem/blob/7cd99ab7c4dee6701edf8f915538c684d93df374/Three%20Body%20Problem%20Writeup.pdf)
 
