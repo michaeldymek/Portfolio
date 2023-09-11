@@ -93,33 +93,19 @@ In this section I will list data analytics projects briefly describing the techn
 
 (PHYS 326 Winter '19)
 
-### Life Expectancy
+### [Math 342 Life Expectancy Project](https://github.com/superspysnake1/Life-Expectancy/tree/main)
 
-**Code:** 
+To serve as the capstone of my statistics series (WWU Math 341-342), I was assigned to write a paper on a multivariate regressional analysis that I would run on a dataset that I was interested in. I chose a large World Health Organization dataset which included 23 variables tracked for every country over 15 years (2000-2015). After exploring and cleaning the dataset, I developed 5 questions that I would test. I used R to calculate regressions, ANOVA tables, and generate figures. Final writeup is generated using LaTeX. 
 
-**Description:**
+Project Description: [Project Description.pdf](https://github.com/superspysnake1/Life-Expectancy/blob/25c78d16ff87e7492514f2544f03fbd454662c57/Project%20Description.pdf)
 
-**Skills:**
+Project Writeup: [Project Final Draft.pdf](https://github.com/superspysnake1/Life-Expectancy/blob/68aa80490beaa3fbe3bcf210a01773caa4dff3bd/Project%20Final%20Draft%20-%20Math%20342.pdf)
 
-**Technology:**
+Full Dataset: [Life Expectancy Data - Full.csv](https://github.com/superspysnake1/Life-Expectancy/blob/25c78d16ff87e7492514f2544f03fbd454662c57/Life%20Expectancy%20Data%20-%20Full.csv)
 
-**Results:**
+Cleaned Dataset: [Life Expectancy Data - Cleaned.csv](https://github.com/superspysnake1/Life-Expectancy/blob/25c78d16ff87e7492514f2544f03fbd454662c57/Life%20Expectancy%20Data%20-%20Full.csv)
 
-(MATH 342 Fall '19)
-
-### Cosmology Project
-
-**Code:** 
-
-**Description:**
-
-**Skills:**
-
-**Technology:**
-
-**Results:**
-
-(ASTR 320 Spring '19)
+R Code: [Life Expectancy Analysis.R](https://github.com/superspysnake1/Life-Expectancy/blob/25c78d16ff87e7492514f2544f03fbd454662c57/Life%20Expectancy%20Analysis.R)
 
 ## Study Projects
 
