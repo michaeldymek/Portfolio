@@ -10,18 +10,15 @@ View my [academic history](https://github.com/superspysnake1/Portfolio/blob/304e
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
 
 ## Table of Contents
- - [About](https://github.com/superspysnake1/Portfolio#about)
- - [Portfolio Projects](https://github.com/superspysnake1/Portfolio#portfolio-projects)
-   - [Omicron Wave Modeling](https://github.com/superspysnake1/Portfolio#omicron-wave-modeling)
-   - [Three Body Problem](https://github.com/superspysnake1/Portfolio#three-body-problem)
-   - [Net Ecosystem Exchange](https://github.com/superspysnake1/Portfolio#net-ecosystem-exchange)
-   - [Science Communications](https://github.com/superspysnake1/Portfolio#science-communications)
-   - [Pendulum Lab Regression](https://github.com/superspysnake1/Portfolio#pendulum-lab-regression) 
-   - [Life Expectancy](https://github.com/superspysnake1/Portfolio#life-expectancy)
-   - [Cosmology Project](https://github.com/superspysnake1/Portfolio#cosmology-project)
- - [Study Projects](https://github.com/superspysnake1/Portfolio#study-projects)
-   - SQL Course
- - [Contacts](https://github.com/superspysnake1/Portfolio#contacts)
+ - [About](https://github.com/superspysnake1/Portfolio/tree/main#about)
+ - [Portfolio Projects](https://github.com/superspysnake1/Portfolio/tree/main#portfolio-projects)
+   - [Math 511 Omicron Wave Modeling Project](https://github.com/superspysnake1/Portfolio/tree/main#math-511-omicron-wave-modeling-project)
+   - [Phys 486 Three Body Problem Project](https://github.com/superspysnake1/Portfolio/tree/main#phys-486-three-body-problem-project)
+   - [Math 510 Net Ecosystem Exchange Project](https://github.com/superspysnake1/Portfolio/tree/main#math-510-net-ecosystem-exchange-project)
+   - [Math 342 Life Expectancy Project](https://github.com/superspysnake1/Portfolio/tree/main#math-342-life-expectancy-project)
+ - [Study Projects](https://github.com/superspysnake1/Portfolio/tree/main#study-projects)
+   - [SQL Course](https://github.com/superspysnake1/Portfolio/tree/main#sql-course)
+ - [Contacts](https://github.com/superspysnake1/Portfolio/tree/main#contacts)
 
 ## Portfolio Projects
 In this section I will list data analytics projects, briefly describing each one. 
@@ -76,6 +73,6 @@ R Code: [Life Expectancy Analysis.R](https://github.com/superspysnake1/Life-Expe
 ### SQL Course
 
 ## Contacts
-
+Feel free to reach out to me at the following locations!
  - [LinkedIn](https://www.linkedin.com/in/michael-dymek-2b1940152/)
  - [Email](mailto:michaeldymek5@gmail.com)
