@@ -71,6 +71,12 @@ R Code: [Life Expectancy Analysis.R](https://github.com/superspysnake1/Life-Expe
 ## Study Projects
 
 ### SQL Course
+I'm currently working through this self-paced course to teach myself SQL. 
+
+Course: [Udemy.com](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/learn/lecture/34511736#content)
+
+Code Repository: [Here](https://github.com/superspysnake1/Udemy-SQL-Course)
+
 
 ## Contacts
 Feel free to reach out to me at the following locations!
