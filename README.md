@@ -18,7 +18,7 @@ This repository serves to showcase my skills and as a platform to share my proje
    - [Math 342 Life Expectancy Project](https://github.com/superspysnake1/Portfolio/tree/main#math-342-life-expectancy-project)
  - [Study Projects](https://github.com/superspysnake1/Portfolio/tree/main#study-projects)
    - [SQL Course](https://github.com/superspysnake1/Portfolio/tree/main#sql-course)
-   - [Harverd's CS50 Course](https://github.com/superspysnake1/Portfolio/tree/main#harvard-CS50)
+   - [Harvard's CS50 Course](https://github.com/superspysnake1/Portfolio/tree/main#harvard-CS50)
  - [Contacts](https://github.com/superspysnake1/Portfolio/tree/main#contacts)
 
 ## Portfolio Projects
