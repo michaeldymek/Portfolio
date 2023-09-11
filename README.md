@@ -77,6 +77,12 @@ Course: [Udemy.com](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-
 
 Code Repository: [Here](https://github.com/superspysnake1/Udemy-SQL-Course)
 
+### Harvard's CS50
+I'm currently working through this course to get better CS fundamentals.
+
+Course: [edX.org](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python)
+
+Code Repository: [Here](https://github.com/superspysnake1/CS50-Course/tree/main)
 
 ## Contacts
 Feel free to reach out to me at the following locations!
