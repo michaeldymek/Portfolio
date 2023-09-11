@@ -23,12 +23,25 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 ## Portfolio Projects
 In this section I will list data analytics projects, briefly describing each one. 
-### [Math 511 Omicron Wave Modeling Project]() 
+### [Math 511 Omicron Wave Modeling Project](https://github.com/superspysnake1/Omicron-Wave/main) 
+As a part of my mathematical modeling series (WWU Math 510-515), 
 
+Project Writeup: [Omicrom Wave Modeling Project Writeup.pdf](https://github.com/superspysnake1/Omicron-Wave/blob/4ea42a449dfac51de5117b57382a1ab2f8c6980b/Omicrom%20Wave%20Modeling%20Project%20Writeup.pdf)
 
+Full Dataset: [Omicron Wave Dataset - Full.xlsx](https://github.com/superspysnake1/Omicron-Wave/blob/4ea42a449dfac51de5117b57382a1ab2f8c6980b/Omicron%20Wave%20Dataset%20-%20Full.xlsx)
 
-### [Phys 486 Three Body Problem Project]()
+Cleaned Dataset: [Omicron Wave Dataset - Cleaned.csv](https://github.com/superspysnake1/Omicron-Wave/blob/4ea42a449dfac51de5117b57382a1ab2f8c6980b/Omicron%20Wave%20Dataset%20-%20Full.xlsx)
 
+MATLAB Code: [Omicron Wave SIR Model Code.m](https://github.com/superspysnake1/Omicron-Wave/blob/4ea42a449dfac51de5117b57382a1ab2f8c6980b/Omicron%20Wave%20SIR%20Model%20Code.m), [Omicron Wave SEIR Model Code.m](https://github.com/superspysnake1/Omicron-Wave/blob/4ea42a449dfac51de5117b57382a1ab2f8c6980b/Omicron%20Wave%20SEIR%20Model%20Code.m), [Omicron Wave SVIR Model Code.m](https://github.com/superspysnake1/Omicron-Wave/blob/4ea42a449dfac51de5117b57382a1ab2f8c6980b/Omicron%20Wave%20SVIR%20Model%20Code.m)
+
+### [Phys 486 Three Body Problem Project](https://github.com/superspysnake1/Three-Body-Problem/tree/main)
+As the capstone project of my physics degree, 
+
+Project Writeup: [Three Body Problem Writeup.pdf](https://github.com/superspysnake1/Three-Body-Problem/blob/7cd99ab7c4dee6701edf8f915538c684d93df374/Three%20Body%20Problem%20Writeup.pdf)
+
+Project Presentation: [Three Body Problem Presentation.pdf](https://github.com/superspysnake1/Three-Body-Problem/blob/7cd99ab7c4dee6701edf8f915538c684d93df374/Three%20Body%20Problem%20Presentation.pdf)
+
+Jupyter Notebook: [Three Body Problem Code.ipynb](https://github.com/superspysnake1/Three-Body-Problem/blob/7cd99ab7c4dee6701edf8f915538c684d93df374/Three%20Body%20Problem%20Code.ipynb)
 
 ### [Math 510 Net Ecosystem Exchange Project](https://github.com/superspysnake1/Net-Ecosystem-Exchange/tree/main)
 As a part of my mathematical modeling series (WWU Math 510-515), I completed a group project where we developed a model for the net ecosystem exchange (NEE) of several salt marshes in the Wanquiot Bay in Massachusetts. We were given data from researchers from West Virginia University, which tracked the NEE of the salt marshes along with 5 other variables. We derived the model using the Buckingham-pi theorem, which finds the relationships between variables by using the dimensional units of each quantity. After developing the model, we used R to calculate the parameters of the model. The final writeup was generated using LaTeX.
