@@ -3,7 +3,8 @@
 
 Hi, I'm Michael! I have a technical background and hold a Master of Science (M.S.) degree in Mathematics from Western Washington University, with a Bachelor of Science (B.S.) in Physics with a minor in Astronomy. As a recent graduate, I'm excited to start my career in data analytics. 
 
-View my resume [here](https://github.com/superspysnake1/Portfolio/blob/49a7a1e4ad5d7f7063ab89f7d9a8ebb37c3abbca/Resume%20-%20Michael%20Dymek.pdf).
+View my [resume](https://github.com/superspysnake1/Portfolio/blob/49a7a1e4ad5d7f7063ab89f7d9a8ebb37c3abbca/Resume%20-%20Michael%20Dymek.pdf).
+View my [academic history](https://github.com/superspysnake1/Portfolio/blob/304e91337ca91c6b72af73e3a5424e18fc207d4e/Academic%20History%20-%20Michael%20Dymek.pdf)
 
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
 
