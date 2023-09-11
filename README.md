@@ -22,79 +22,28 @@ This repository serves to showcase my skills and as a platform to share my proje
  - [Contacts](https://github.com/superspysnake1/Portfolio#contacts)
 
 ## Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
-### Omicron Wave Modeling 
+In this section I will list data analytics projects, briefly describing each one. 
+### [Math 511 Omicron Wave Modeling Project]() 
 
-**Code:** 
 
-**Description:**
 
-**Skills:**
+### [Phys 486 Three Body Problem Project]()
 
-**Technology:**
 
-**Results:**
+### [Math 510 Net Ecosystem Exchange Project](https://github.com/superspysnake1/Net-Ecosystem-Exchange/tree/main)
+As a part of my mathematical modeling series (WWU Math 510-515), I completed a group project where we developed a model for the net ecosystem exchange (NEE) of several salt marshes in the Wanquiot Bay in Massachusetts. We were given data from researchers from West Virginia University, which tracked the NEE of the salt marshes along with 5 other variables. We derived the model using the Buckingham-pi theorem, which finds the relationships between variables by using the dimensional units of each quantity. After developing the model, we used R to calculate the parameters of the model. The final writeup was generated using LaTeX.
 
-(MATH 511 Spring '22)
+Project Description: [NEE Project Details.pdf](https://github.com/superspysnake1/Net-Ecosystem-Exchange/blob/2ea5870874bed28a060d0661d0f63b5f60218822/NEE%20Project%20Details.pdf)
 
-### Three Body Problem
+Project Writeup: [NEE Project Writeup.pdf](https://github.com/superspysnake1/Net-Ecosystem-Exchange/blob/2ea5870874bed28a060d0661d0f63b5f60218822/NEE%20Project%20Writeup.pdf)
 
-**Code:** 
+Full Dataset: [NEE Dataset - Full.xlsx](https://github.com/superspysnake1/Net-Ecosystem-Exchange/blob/2ea5870874bed28a060d0661d0f63b5f60218822/NEE%20Dataset%20-%20Full.xlsx)
 
-**Description:**
+Cleaned Dataset: [NEE Dataset - Cleaned.csv](https://github.com/superspysnake1/Net-Ecosystem-Exchange/blob/2ea5870874bed28a060d0661d0f63b5f60218822/NEE%20Dataset%20-%20Cleaned.csv)
 
-**Skills:**
-
-**Technology:**
-
-**Results:**
-
-(PHYS 486 Spring '21)
-
-### Net Ecosystem Exchange
-
-**Code:** 
-
-**Description:**
-
-**Skills:**
-
-**Technology:**
-
-**Results:**
-
-(MATH 510 Fall '20)
-
-### Science Communications
-
-**Code:** 
-
-**Description:**
-
-**Skills:**
-
-**Technology:**
-
-**Results:**
-
-(PHYS 297B Summer '20)
-
-### Pendulum Lab Regression
-
-**Code:** 
-
-**Description:**
-
-**Skills:**
-
-**Technology:**
-
-**Results:**
-
-(PHYS 326 Winter '19)
+R Code: [NEE Project Code](https://github.com/superspysnake1/Net-Ecosystem-Exchange/blob/2ea5870874bed28a060d0661d0f63b5f60218822/NEE%20Project%20Code.R)
 
 ### [Math 342 Life Expectancy Project](https://github.com/superspysnake1/Life-Expectancy/tree/main)
-
 To serve as the capstone of my statistics series (WWU Math 341-342), I was assigned to write a paper on a multivariate regressional analysis that I would run on a dataset that I was interested in. I chose a large World Health Organization dataset which included 23 variables tracked for every country over 15 years (2000-2015). After exploring and cleaning the dataset, I developed 5 questions that I would test. I used R to calculate regressions, ANOVA tables, and generate figures. Final writeup is generated using LaTeX. 
 
 Project Description: [Project Description.pdf](https://github.com/superspysnake1/Life-Expectancy/blob/25c78d16ff87e7492514f2544f03fbd454662c57/Project%20Description.pdf)
