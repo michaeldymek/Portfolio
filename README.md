@@ -78,8 +78,6 @@ Course: [Udemy.com](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-
 
 Code Repository: [Here](https://github.com/superspysnake1/Udemy-SQL-Course)
 
-Code Repository: [Here](https://github.com/superspysnake1/CS50-Course/tree/main)
-
 ## Contacts
 Feel free to reach out to me at the following locations!
  - [LinkedIn](https://www.linkedin.com/in/michael-dymek-2b1940152/)
