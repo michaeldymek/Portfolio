@@ -5,15 +5,12 @@ Hi, I'm Michael! I have a technical background and hold a Master of Science (M.S
 
 With these experiences, I was hired as a Data Scientist at the U.S. Internal Revenue Service in August 2024. I am a firm believer in public service, and was excited to serve my country while growing a new career. I worked with a small business intelligence team to analyze clean energy tax credits, assess revenue trends, and generate legally mandated reports. Using SQL, Python, and Jupyter Notebook, I queried and analyzed massive datasets from the IRS Data Warehouse, delivering insights that supported decision-making. I also got certified with Power BI to help support my team in making impactful dashboards. While I was unexpectedly terminated in February 2024 due to government-wide probationary employee terminations, I am proud of the impactful work I accomplished during my time there.
 
-For this reason, I am currently looking for a new job. If you are a hiring manager, I'd be happy to hear from you! Feel free to reach out to me at the following locations.
- - [LinkedIn](https://www.linkedin.com/in/michael-dymek-2b1940152/)
- - [Email](mailto:michaeldymek5@protonmail.com) 
-
-View my [resume](https://github.com/superspysnake1/Portfolio/blob/d7a9ae181a07fdeedde2b34e2eab2b1f01a1954e/Resume%20-%20Michael%20Dymek.pdf).
-
-View my [academic history](https://github.com/superspysnake1/Portfolio/blob/304e91337ca91c6b72af73e3a5424e18fc207d4e/Academic%20History%20-%20Michael%20Dymek.pdf).
-
-View a [letter of recommendation](https://github.com/michaeldymek/Portfolio/blob/2b09767176ec7c55fa58244d05382248a96f48f3/Letter%20of%20Recommendation%20-%20Christina%20Hui.pdf) from my previous manager Christina Hui.
+For this reason, I am currently looking for a new job. If you are a hiring manager, I'd be happy to hear from you! Feel free to reach out to me and learn more at the following locations.
+ - LinkedIn: [Link](https://www.linkedin.com/in/michael-dymek-2b1940152/)
+ - Email: [michaeldymek5@protonmail.com](mailto:michaeldymek5@protonmail.com) 
+ - View my [resume](https://github.com/superspysnake1/Portfolio/blob/d7a9ae181a07fdeedde2b34e2eab2b1f01a1954e/Resume%20-%20Michael%20Dymek.pdf).
+ - View my [academic history](https://github.com/superspysnake1/Portfolio/blob/304e91337ca91c6b72af73e3a5424e18fc207d4e/Academic%20History%20-%20Michael%20Dymek.pdf).
+ - View a [letter of recommendation](https://github.com/michaeldymek/Portfolio/blob/2b09767176ec7c55fa58244d05382248a96f48f3/Letter%20of%20Recommendation%20-%20Christina%20Hui.pdf) from my previous manager Christina Hui.
 
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
 
