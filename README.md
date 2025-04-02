@@ -1,28 +1,40 @@
-# Michael Dymek - Data Analysis Portfolio
+# Michael Dymek - Data Science Portfolio
 ## About
 
-Hi, I'm Michael! I have a technical background and hold a Master of Science (M.S.) degree in Mathematics from Western Washington University, with a Bachelor of Science (B.S.) in Physics with a minor in Astronomy. As a recent graduate, I'm excited to start my career in data analytics. 
+Hi, I'm Michael! I have a technical background and hold a Master of Science (M.S.) in Mathematics from Western Washington University, with a Bachelor of Science (B.S.) in Physics and Applied Mathematics with a minor in Astronomy. My studies focused on modeling, statistics, and optimization when available. I also heavily focused on tutoring and teaching, which gave me a strong science-communication and problem-solving skills. 
 
-View my [resume](https://github.com/superspysnake1/Portfolio/blob/49a7a1e4ad5d7f7063ab89f7d9a8ebb37c3abbca/Resume%20-%20Michael%20Dymek.pdf).
+With these experiences, I was hired as a Data Scientist at the U.S. Internal Revenue Service in August 2024. I am a firm believer in public service, and was excited to serve my country while growing a new career. I worked with a small business intelligence team to analyze clean energy tax credits, assess revenue trends, and generate legally mandated reports. Using SQL, Python, and Jupyter Notebook, I queried and analyzed massive datasets from the IRS Data Warehouse, delivering insights that supported decision-making. I also got certified with Power BI to help support my team in making impactful dashboards. While I was unexpectedly terminated in February 2024 due to government-wide probationary employee terminations, I am proud of the impactful work I accomplished during my time there.
+
+For this reason, I am currently looking for a new job. If you are a hiring manager, I'd be happy to hear from you! Feel free to reach out to me at the following locations.
+ - [LinkedIn](https://www.linkedin.com/in/michael-dymek-2b1940152/)
+ - [Email](mailto:michaeldymek5@protonmail.com) 
+
+View my [resume](https://github.com/superspysnake1/Portfolio/blob/d7a9ae181a07fdeedde2b34e2eab2b1f01a1954e/Resume%20-%20Michael%20Dymek.pdf).
 
 View my [academic history](https://github.com/superspysnake1/Portfolio/blob/304e91337ca91c6b72af73e3a5424e18fc207d4e/Academic%20History%20-%20Michael%20Dymek.pdf).
+
+View a [letter of recommendation](https://github.com/michaeldymek/Portfolio/blob/2b09767176ec7c55fa58244d05382248a96f48f3/Letter%20of%20Recommendation%20-%20Christina%20Hui.pdf) from my previous manager Christina Hui.
 
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
 
 ## Table of Contents
  - [About](https://github.com/superspysnake1/Portfolio/tree/main#about)
  - [Portfolio Projects](https://github.com/superspysnake1/Portfolio/tree/main#portfolio-projects)
+   - [SQL Course](https://github.com/superspysnake1/Portfolio/tree/main#sql-course)
    - [Math 511 Omicron Wave Modeling Project](https://github.com/superspysnake1/Portfolio/tree/main#math-511-omicron-wave-modeling-project)
    - [Phys 486 Three Body Problem Project](https://github.com/superspysnake1/Portfolio/tree/main#phys-486-three-body-problem-project)
    - [Math 510 Net Ecosystem Exchange Project](https://github.com/superspysnake1/Portfolio/tree/main#math-510-net-ecosystem-exchange-project)
    - [Math 342 Life Expectancy Project](https://github.com/superspysnake1/Portfolio/tree/main#math-342-life-expectancy-project)
- - [Study Projects](https://github.com/superspysnake1/Portfolio/tree/main#study-projects)
-   - [SQL Course](https://github.com/superspysnake1/Portfolio/tree/main#sql-course)
-   - [Harvard's CS50 Course](https://github.com/superspysnake1/Portfolio/tree/main#harvard-CS50)
- - [Contacts](https://github.com/superspysnake1/Portfolio/tree/main#contacts)
 
 ## Portfolio Projects
 In this section I will list data analytics projects, briefly describing each one. 
+### SQL Course
+I'm currently working through this self-paced course to teach myself SQL. 
+
+Course: [Udemy.com](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/learn/lecture/34511736#content)
+
+Code Repository: [Here](https://github.com/superspysnake1/Udemy-SQL-Course)
+
 ### [Math 511 Omicron Wave Modeling Project](https://github.com/superspysnake1/Omicron-Wave/main) 
 As a part of my mathematical modeling series (WWU Math 510-515), I performed multiple regressions on the Omicron wave of COVID hospitalization data using MATLAB. Using the different regressions, we were able to determine which disease model fit best. Models were derived from first principles using compartmental epidemiological analysis. Writeup generated using LaTeX.
 
@@ -68,17 +80,3 @@ Full Dataset: [Life Expectancy Data - Full.csv](https://github.com/superspysnake
 Cleaned Dataset: [Life Expectancy Data - Cleaned.csv](https://github.com/superspysnake1/Life-Expectancy/blob/25c78d16ff87e7492514f2544f03fbd454662c57/Life%20Expectancy%20Data%20-%20Full.csv)
 
 R Code: [Life Expectancy Analysis.R](https://github.com/superspysnake1/Life-Expectancy/blob/25c78d16ff87e7492514f2544f03fbd454662c57/Life%20Expectancy%20Analysis.R)
-
-## Study Projects
-
-### SQL Course
-I'm currently working through this self-paced course to teach myself SQL. 
-
-Course: [Udemy.com](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/learn/lecture/34511736#content)
-
-Code Repository: [Here](https://github.com/superspysnake1/Udemy-SQL-Course)
-
-## Contacts
-Feel free to reach out to me at the following locations!
- - [LinkedIn](https://www.linkedin.com/in/michael-dymek-2b1940152/)
- - [Email](mailto:michaeldymek5@protonmail.com)
